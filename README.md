@@ -40,7 +40,13 @@ LAKEFLOW DECLARATIVE PIPELINES - batch loading ETL pipeline for healthcare data 
 18  <img width="1349" height="823" alt="image" src="https://github.com/user-attachments/assets/8329d07c-5f02-4f2d-b7b0-c8000d1968e7" />  
 
  
-19 <img width="1342" height="777" alt="image" src="https://github.com/user-attachments/assets/b2cfc73c-da28-45b2-9687-751bd149977b" />
+19 <img width="1342" height="777" alt="image" src="https://github.com/user-attachments/assets/b2cfc73c-da28-45b2-9687-751bd149977b" />  
+
+20 <img width="1370" height="890" alt="image" src="https://github.com/user-attachments/assets/cf205a90-7d97-478c-a387-1ab4832267e6" />  
+
+21 <img width="1372" height="863" alt="image" src="https://github.com/user-attachments/assets/9385a358-0fd2-4c93-a3a5-2babaede82d7" />
+
+
 
 
 
